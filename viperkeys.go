@@ -21,7 +21,7 @@ import (
 
 	"github.com/spf13/viper"
 
-	keystore "github.com/ipfn/go-ipfn-key-store"
+	"github.com/ipfn/ipfn/go/keystore"
 )
 
 // Storage - Viper-config based key-value viperkeys.
